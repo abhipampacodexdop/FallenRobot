@@ -72,12 +72,12 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-────「 [˹𝙑𝙁 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏 𝙍𝙊𝘽𝙊𝙏˼](https://te.legra.ph/file/bb69ee128b9c4b7e8f02c.mp4) 」────
+────「 [˹𝙑𝙁 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏 𝙍𝙊𝘽𝙊𝙏˼](https://te.legra.ph/file/cee4408dd6cb3096e2572.jpg) 」────
 
 *ʜᴇʏ* {} ✨, 
 
 *๏ ᴛʜɪs ɪs* {}!
-[ㅤ]("https://te.legra.ph/file/bb69ee128b9c4b7e8f02c.mp4")
+[ㅤ]("https://te.legra.ph/file/cee4408dd6cb3096e2572.jpg")
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ + ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
 ──────────────────
